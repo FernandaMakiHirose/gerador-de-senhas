@@ -1,4 +1,12 @@
 # Desenvolvendo um gerador de senhas
+## Requisitos
+- Python
+- Visual Studio Code ou Terminal
+
+## Executar o projeto
+No path `\gerador-de-senhas` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
+>python nomedoarquivo.py
+
 ## Bibliotecas usadas
 - random: Implementa geradores de números letras e símbolos aleatórios para várias situações
 - string: Implementa operações comuns para strings
