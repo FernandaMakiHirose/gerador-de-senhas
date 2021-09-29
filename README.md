@@ -12,7 +12,7 @@
 - Se neste mesmo arquivo um único bit for alterado o hash gerada será diferente
 
 ## Multithreading
-- Thread é o processo e no ambiente multithread, cada processo pode respônder a várias solicitações concorrentemente ou mesmo simultaneamente
+Thread é o processo e no ambiente multithread, cada processo pode respônder a várias solicitações concorrentemente ou mesmo simultaneamente
 
 ## ipaddress
-- Esta biblioteca tem a capacidade de criar, manipular endereços |P do tipo IPv4, IPv6 e até rede inteiras
+Esta biblioteca tem a capacidade de criar, manipular endereços |P do tipo IPv4, IPv6 e até rede inteiras
