@@ -1,4 +1,4 @@
-# gerador-de-senhas
+# Desenvolvendo um gerador de senhas
 ## Bibliotecas usadas
 - random: Implementa geradores de números letras e símbolos aleatórios para várias situações
 - string: Implementa operações comuns para strings
