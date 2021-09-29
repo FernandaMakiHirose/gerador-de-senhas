@@ -1,7 +1,7 @@
 # Desenvolvendo um gerador de senhas
 ## Requisitos
 - Python
-- Visual Studio Code ou Terminal
+- Pycharm ou Terminal
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
