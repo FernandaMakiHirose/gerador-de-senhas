@@ -3,6 +3,9 @@
 - Python
 - Visual Studio Code ou Terminal
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Executar o projeto
 No path `\gerador-de-senhas` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
 >python nomedoarquivo.py
